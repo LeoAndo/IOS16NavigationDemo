@@ -11,6 +11,8 @@
 		AA3A86CD29C81C1900D8CD1D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3A86CC29C81C1900D8CD1D /* ContentView.swift */; };
 		AA3A86CF29C81C1A00D8CD1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA3A86CE29C81C1A00D8CD1D /* Assets.xcassets */; };
 		AA3A86D229C81C1A00D8CD1D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA3A86D129C81C1A00D8CD1D /* Preview Assets.xcassets */; };
+		AAF66D2529CDA3FE00240AC1 /* DetailScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF66D2429CDA3FE00240AC1 /* DetailScreen.swift */; };
+		AAF66D2729CDA41300240AC1 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF66D2629CDA41300240AC1 /* Person.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		AA3A86CC29C81C1900D8CD1D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AA3A86CE29C81C1A00D8CD1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA3A86D129C81C1A00D8CD1D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AAF66D2429CDA3FE00240AC1 /* DetailScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailScreen.swift; sourceTree = "<group>"; };
+		AAF66D2629CDA41300240AC1 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				AA3A86CA29C81C1900D8CD1D /* IOS16NavigationDemoApp.swift */,
 				AA3A86CC29C81C1900D8CD1D /* ContentView.swift */,
+				AAF66D2429CDA3FE00240AC1 /* DetailScreen.swift */,
+				AAF66D2629CDA41300240AC1 /* Person.swift */,
 				AA3A86CE29C81C1A00D8CD1D /* Assets.xcassets */,
 				AA3A86D029C81C1A00D8CD1D /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				AA3A86CD29C81C1900D8CD1D /* ContentView.swift in Sources */,
 				AA3A86CB29C81C1900D8CD1D /* IOS16NavigationDemoApp.swift in Sources */,
+				AAF66D2729CDA41300240AC1 /* Person.swift in Sources */,
+				AAF66D2529CDA3FE00240AC1 /* DetailScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
